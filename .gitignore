@@ -41,5 +41,7 @@ yarn-error.log*
 *.code-workspace
 .idea
 
-tmp*__pycache__/
-build/\ndist/\n*.spec
+__pycache__/
+build/
+dist/
+*.spec
