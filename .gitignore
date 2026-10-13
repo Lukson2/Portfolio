@@ -42,3 +42,4 @@ yarn-error.log*
 .idea
 
 tmp*__pycache__/
+build/\ndist/\n*.spec
